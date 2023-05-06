@@ -1,0 +1,23 @@
+{
+  "name": "course-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages-d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmsa/course-async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elmsa/course-async/issues"
+  },
+  "homepage": "https://github.com/elmsa/course-async#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
